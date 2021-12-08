@@ -1,0 +1,6 @@
+.top {
+  width: 100vw;
+  height: 13.33vw;
+  background: url(../image/top.png) no-repeat;
+  background-size: 100vw 13.33vw;
+}
